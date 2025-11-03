@@ -3512,3 +3512,5 @@
 #AT&T Communications
 162.192.0.0/12
 162.224.0.0/12
+#CenturyLink Communications
+174.16.0.0/12
